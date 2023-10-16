@@ -10,7 +10,7 @@ Tableau Dashboard Link4 https://public.tableau.com/views/dashboard14_16973989570
 Tableau Story Link https://public.tableau.com/views/Storystory/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
-Tableau Video Demonstration Link https://drive.google.com/file/d/1yr8zXf0qNM6s7VqGCGs4e1UM7EVCT9i6/view?usp=drive_link
+Tableau Video Demonstration Link https://drive.google.com/file/d/1yr8zXf0qNM6s7VqGCGs4e1UM7EVCT9i6/view?usp=sharing
 
 
 # ANALYSING-HOUSING-PRICES-IN-METROPOLITAN-AREAS-OF-INDIA
